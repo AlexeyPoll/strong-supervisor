@@ -16,3 +16,4 @@ pids
 strongloop.json
 test/x-app
 test/sx-app
+.idea
