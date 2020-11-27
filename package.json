@@ -37,7 +37,7 @@
     "test": "tap --timeout 300 test/test-*.js"
   },
   "dependencies": {
-    "appmetrics": "^1.0.13",
+    "appmetrics": "^5.1.1",
     "async": "^2.0.0",
     "debug": "^2.0.0",
     "dotenv": "^1.0.0",
@@ -60,7 +60,7 @@
     "mocha": "^2.2.4",
     "optimist": "~0.6.0",
     "shelljs": "^0.5.0",
-    "sleep": "^3.0.1",
+    "sleep": "^6.3.0",
     "strong-express-metrics": "^2.0.0",
     "tap": "^6.1.1"
   },
